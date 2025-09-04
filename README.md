@@ -1,7 +1,7 @@
 # Operacão Farmaceutica
 Projeto para implementação de serviços AWS
 
-# RELATÓRIO DE IMPLEMENTAÃ‡ÃƒO DE SERVIÇOS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 01/10/2025
 Empresa: Natura Farmaco 
