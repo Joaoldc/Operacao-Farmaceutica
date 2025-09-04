@@ -58,6 +58,6 @@ A implementação de ferramentas na empresa Natura Farmaco tem como esperado a d
 
 https://aws.amazon.com/pt/
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsável pelo Projeto:
 
 João Luiz
